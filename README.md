@@ -13,7 +13,7 @@ The module requires:
 - A passive buzzer (pin 9).
 - DHT11: Temperature and humidity sensor (pin 10).
 - HC-SR501: PIR Sensor (pin 8).
-- DS3231 RTC:  Real Time Clock Module (i2c us).
+- DS3231 RTC:  Real Time Clock Module (i2c bus).
 - LCD1602: 16x2 LCD display (pins 2-7).
 - 2 10k Potentiometers (for contrast and retro-lighting of the LCD).
 
