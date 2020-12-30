@@ -18,10 +18,13 @@ The module requires:
 - 2 10k Potentiometers (for contrast and retro-lighting of the LCD).
 
 The display is as follow:
+
+```
 ====================
 [AA:AA] [BB]°C [CC]%
 [D:DD:DD] [EE:EE:EE]
 ====================
+```
 
 With:
 - A: Time
@@ -30,3 +33,7 @@ With:
 - D: Duration of continuous activity
 - E: Sum of activity durations
 
+
+![Outside](https://github.com/achoum/couch-tracker/blob/master/outside.jpg)
+
+![Inside](https://github.com/achoum/couch-tracker/blob/master/inside.jpg)
