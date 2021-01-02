@@ -3,9 +3,9 @@
 Mathieu Guillame-Bert (achoum@gmail.com)
 2020
 
-The Couch Tracker tracks the amount of time you spend in a location. For example, it can be used to track the amount of time in front of your tv.
+The Couch Tracker tracks the amount of time spent in your couch (or any other locations).
 
-The system detects the presence of persons in front of it, and displays the duration of the last activation (if activated) and the sum of all past activations. Every 30minutes of activities, the controller emits a short buzz. In addition, the controller also displays the time, temperature, and humidity.
+The system works by detecting the presence of persons in front of it, and summing and displaying the duration of activation (both last and total sum). Every 30minutes of activation, the controller emits a short buzz. The system also displays the time, temperature, and humidity level.
 
 The module requires:
 
